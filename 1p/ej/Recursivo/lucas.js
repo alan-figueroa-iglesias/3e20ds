@@ -10,5 +10,5 @@ function lucas(x)
         return lucas(x-1) + lucas(x-2);
 }
 
-for(var i=0; i<15; i++)
+for(i=0; i<15; i++)
     console.log(lucas(i));

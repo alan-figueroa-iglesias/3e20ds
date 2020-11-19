@@ -15,5 +15,4 @@ captura.question("Ingresa el número de la serie de potencia: ", (n) => {
     }
     captura.close;
     });
-});
- 
+}); 

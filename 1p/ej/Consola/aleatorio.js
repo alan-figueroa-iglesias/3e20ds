@@ -18,4 +18,3 @@ captura.question("Ingresa el número de la serie: ", (x) => {
     captura.close;
     });
 });
- 
